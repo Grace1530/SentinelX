@@ -1,0 +1,86 @@
+{
+  "accuracy": 1.0,
+  "classification_report": {
+    "HTTP_FLOOD": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 500.0
+    },
+    "NORMAL": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 500.0
+    },
+    "PORT_SCAN": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 500.0
+    },
+    "SSH_BRUTE_FORCE": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 500.0
+    },
+    "SYN_FLOOD": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 500.0
+    },
+    "accuracy": 1.0,
+    "macro avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2500.0
+    },
+    "weighted avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 2500.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      500,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      500,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      500,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      500,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      500
+    ]
+  ],
+  "samples": 2500
+}

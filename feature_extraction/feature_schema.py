@@ -1,0 +1,17 @@
+FEATURE_NAMES = [
+    "packet_length",
+    "source_port",
+    "destination_port",
+    "ttl",
+    "tcp_syn",
+    "tcp_ack",
+    "tcp_rst",
+    "tcp_fin",
+    "flow_packet_count",
+    "flow_byte_count",
+    "flow_syn_count",
+    "flow_ack_count",
+    "flow_rst_count",
+    "flow_fin_count",
+    "unique_destination_ports",
+]
