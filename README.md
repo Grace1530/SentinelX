@@ -580,7 +580,7 @@ Future improvements can include:
 
 # 👩‍💻 Author
 
-## Grace Angela
+## Grace Angela J
 
 Computer Science student focused on cybersecurity, network security, machine learning, and practical security engineering.
 
